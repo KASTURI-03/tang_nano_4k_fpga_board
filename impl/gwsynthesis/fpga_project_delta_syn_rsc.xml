@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top_1" Register="68" Lut="91" T_Register="1557(68)" T_Alu="159(0)" T_Lut="2264(91)" T_Bsram="10(0)">
+ <SubModule name="u_pll"/>
+ <SubModule name="gw_gao_inst_0" Register="282" Alu="13" Lut="387" Bsram="1" T_Register="282(282)" T_Alu="13(13)" T_Lut="387(387)" T_Bsram="1(1)"/>
+ <SubModule name="ov2640_init_inst" Register="48" Lut="210" T_Register="48(48)" T_Lut="210(210)"/>
+ <SubModule name="i2c_master_inst" Register="85" Lut="177" T_Register="85(85)" T_Lut="177(177)"/>
+ <SubModule name="u_uart_rx" Register="31" Alu="5" Lut="22" T_Register="31(31)" T_Alu="5(5)" T_Lut="22(22)"/>
+ <SubModule name="u_cmd" Register="2" Lut="5" T_Register="2(2)" T_Lut="5(5)"/>
+ <SubModule name="u_capture" Register="75" Alu="16" Lut="68" T_Register="75(75)" T_Alu="16(16)" T_Lut="68(68)"/>
+ <SubModule name="u_fb" Register="1" Lut="18" Bsram="9" T_Register="1(1)" T_Lut="18(18)" T_Bsram="9(9)"/>
+ <SubModule name="u_sys_dbg" Register="854" Alu="125" Lut="1039" T_Register="854(854)" T_Alu="125(125)" T_Lut="1039(1039)"/>
+ <SubModule name="u_streamer" Register="80" Lut="196" T_Register="80(80)" T_Lut="196(196)"/>
+ <SubModule name="u_uart_tx" Register="31" Lut="51" T_Register="31(31)" T_Lut="51(51)"/>
+</Module>

@@ -1,0 +1,33 @@
+Reading netlist file: "G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\impl\gwsynthesis\fpga_project_delta.vg"
+Parsing netlist file "G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\impl\gwsynthesis\fpga_project_delta.vg" completed
+Processing netlist completed
+Reading constraint file: "G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\pins.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+WARN  (TA1132) :  'tck_pad_i' was determined to be a clock but was not created.
+WARN  (TA1117) : Can't calculate clocks' relationship between: "cam_pclk" and "clk_27mhz"
+WARN  (TA1117) : Can't calculate clocks' relationship between: "clk_27mhz" and "cam_pclk"
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+WARN  (PR1014) : Generic routing resource will be used to clock signal 'clk_27mhz_d' by the specified constraint. And then it may lead to the excessive delay or skew
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\impl\pnr\fpga_project_delta.power.html" completed
+Generate file "G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\impl\pnr\fpga_project_delta.pin.html" completed
+Generate file "G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\impl\pnr\fpga_project_delta.rpt.html" completed
+Generate file "G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\impl\pnr\fpga_project_delta.rpt.txt" completed
+Generate file "G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\impl\pnr\fpga_project_delta.tr.html" completed
+Sat Oct 31 13:57:44 2026
+

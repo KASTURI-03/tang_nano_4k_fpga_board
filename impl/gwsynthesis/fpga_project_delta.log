@@ -1,0 +1,97 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\Gowin_PLLVR_pxl.v'
+Analyzing Verilog file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\Gowin_SDPB.v'
+Analyzing Verilog file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\cmd_decoder.v'
+Analyzing Verilog file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\frame_streamer.v'
+Analyzing Verilog file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\i2c_master.v'
+Analyzing Verilog file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\init_ack_streamer.v'
+WARN  (EX2225) : Select on function call violates IEEE 1800 syntax("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\init_ack_streamer.v":913)
+Analyzing Verilog file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\ov2640_capture.v'
+Analyzing Verilog file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\ov2640_init.v'
+Analyzing Verilog file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\top.v'
+Analyzing Verilog file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\uart_rx.v'
+Analyzing Verilog file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\uart_tx.v'
+Analyzing Verilog file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_crc32.v'
+Analyzing Verilog file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v'
+Analyzing included file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_define.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v":374)
+Back to file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v":374)
+Analyzing included file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_top_define.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v":374)
+Back to file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v":374)
+Analyzing included file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_init.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v":374)
+Back to file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v":374)
+Analyzing Verilog file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_mem_ctrl.v'
+Analyzing included file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_top_define.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_mem_ctrl.v":1256)
+Back to file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_mem_ctrl.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_mem_ctrl.v":1256)
+Analyzing Verilog file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v'
+Analyzing included file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_define.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Back to file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Analyzing included file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_top_define.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Back to file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Analyzing included file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_expression.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Back to file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Analyzing included file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_parameter.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Back to file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Analyzing included file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_init.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Back to file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Analyzing Verilog file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v'
+Analyzing included file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\impl\gwsynthesis\RTL_GAO\ao_control\gw_con_top_define.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v":377)
+Back to file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v":377)
+Analyzing included file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\impl\gwsynthesis\RTL_GAO\ao_control\gw_con_parameter.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v":377)
+Back to file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v":377)
+Analyzing Verilog file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\gw_jtag.v'
+Analyzing Verilog file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\impl\gwsynthesis\RTL_GAO\gw_gao_top.v'
+Compiling module 'Gowin_PLLVR_pxl'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\Gowin_PLLVR_pxl.v":1)
+Compiling module 'Gowin_SDPB'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\Gowin_SDPB.v":1)
+Compiling module 'cmd_decoder'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\cmd_decoder.v":1)
+Compiling module 'frame_streamer'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\frame_streamer.v":3)
+Compiling module 'i2c_master'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\i2c_master.v":1)
+Compiling module 'init_ack_streamer'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\init_ack_streamer.v":75)
+WARN  (EX3791) : Expression size 5 truncated to fit in target size 4("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\init_ack_streamer.v":166)
+WARN  (EX3791) : Expression size 5 truncated to fit in target size 4("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\init_ack_streamer.v":167)
+WARN  (EX3791) : Expression size 5 truncated to fit in target size 4("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\init_ack_streamer.v":168)
+WARN  (EX3791) : Expression size 5 truncated to fit in target size 4("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\init_ack_streamer.v":169)
+WARN  (EX3791) : Expression size 5 truncated to fit in target size 4("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\init_ack_streamer.v":170)
+WARN  (EX3791) : Expression size 5 truncated to fit in target size 4("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\init_ack_streamer.v":171)
+WARN  (EX3791) : Expression size 5 truncated to fit in target size 4("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\init_ack_streamer.v":172)
+WARN  (EX3791) : Expression size 5 truncated to fit in target size 4("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\init_ack_streamer.v":173)
+WARN  (EX3791) : Expression size 5 truncated to fit in target size 4("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\init_ack_streamer.v":174)
+WARN  (EX3791) : Expression size 5 truncated to fit in target size 4("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\init_ack_streamer.v":175)
+Compiling module 'ov2640_capture'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\ov2640_capture.v":29)
+Compiling module 'ov2640_init'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\ov2640_init.v":16)
+Extracting RAM for identifier 'init_rom'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\ov2640_init.v":75)
+Compiling module 'top_1'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\top.v":3)
+Compiling module 'i2c_master(SLAVE_ADDR=8'b01100000)'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\i2c_master.v":1)
+Compiling module 'uart_rx'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\uart_rx.v":11)
+WARN  (EX3670) : Actual bit length 17 differs from formal bit length 14 for port 'fb_raddr'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\top.v":880)
+Compiling module 'uart_tx'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\uart_tx.v":1)
+WARN  (EX2565) : Input 'dvp_start' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\top.v":902)
+Compiling module '**'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_crc32.v":74)
+Compiling module '**'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v":374)
+Compiling module '**'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_mem_ctrl.v":1256)
+Extracting RAM for identifier '**'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_mem_ctrl.v":1256)
+Compiling module '**'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Compiling module '**'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v":377)
+Compiling module 'GW_JTAG'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\data\ipcores\gw_jtag.v":1)
+Compiling module 'gw_gao'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\impl\gwsynthesis\RTL_GAO\gw_gao_top.v":1)
+Trying to combine GAO to RTL design
+NOTE  (EX0101) : Current top module is "top_1"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\impl\gwsynthesis\fpga_project_delta.vg" completed
+[100%] Generate report file "G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\impl\gwsynthesis\fpga_project_delta_syn.rpt.html" completed
+GowinSynthesis finish

@@ -1,0 +1,92 @@
+[
+ {
+  "InstFile" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/top.v",
+  "InstLine" : 3,
+  "InstName" : "top_1",
+  "ModuleFile" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/top.v",
+  "ModuleLine" : 3,
+  "ModuleName" : "top_1",
+  "SubInsts" : [
+   {
+    "InstFile" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/top.v",
+    "InstLine" : 39,
+    "InstName" : "u_pll",
+    "ModuleFile" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/Gowin_PLLVR_pxl.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "Gowin_PLLVR_pxl"
+   },
+   {
+    "InstFile" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/top.v",
+    "InstLine" : 472,
+    "InstName" : "ov2640_init_inst",
+    "ModuleFile" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/ov2640_init.v",
+    "ModuleLine" : 16,
+    "ModuleName" : "ov2640_init"
+   },
+   {
+    "InstFile" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/top.v",
+    "InstLine" : 510,
+    "InstName" : "i2c_master_inst",
+    "ModuleFile" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/i2c_master.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "i2c_master"
+   },
+   {
+    "InstFile" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/top.v",
+    "InstLine" : 592,
+    "InstName" : "u_uart_rx",
+    "ModuleFile" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/uart_rx.v",
+    "ModuleLine" : 11,
+    "ModuleName" : "uart_rx"
+   },
+   {
+    "InstFile" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/top.v",
+    "InstLine" : 608,
+    "InstName" : "u_cmd",
+    "ModuleFile" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/cmd_decoder.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "cmd_decoder"
+   },
+   {
+    "InstFile" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/top.v",
+    "InstLine" : 690,
+    "InstName" : "u_capture",
+    "ModuleFile" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/ov2640_capture.v",
+    "ModuleLine" : 29,
+    "ModuleName" : "ov2640_capture"
+   },
+   {
+    "InstFile" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/top.v",
+    "InstLine" : 777,
+    "InstName" : "u_fb",
+    "ModuleFile" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/Gowin_SDPB.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "Gowin_SDPB"
+   },
+   {
+    "InstFile" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/top.v",
+    "InstLine" : 837,
+    "InstName" : "u_sys_dbg",
+    "ModuleFile" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/init_ack_streamer.v",
+    "ModuleLine" : 75,
+    "ModuleName" : "init_ack_streamer"
+   },
+   {
+    "InstFile" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/top.v",
+    "InstLine" : 872,
+    "InstName" : "u_streamer",
+    "ModuleFile" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/frame_streamer.v",
+    "ModuleLine" : 3,
+    "ModuleName" : "frame_streamer"
+   },
+   {
+    "InstFile" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/top.v",
+    "InstLine" : 917,
+    "InstName" : "u_uart_tx",
+    "ModuleFile" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/uart_tx.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "uart_tx"
+   }
+  ]
+ }
+]

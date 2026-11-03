@@ -1,0 +1,57 @@
+{
+ "Device" : "GW1NSR-4C",
+ "Files" : [
+  {
+   "Path" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/Gowin_PLLVR_pxl.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/Gowin_SDPB.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/cmd_decoder.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/frame_streamer.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/i2c_master.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/init_ack_streamer.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/ov2640_capture.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/ov2640_init.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/top.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/uart_rx.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/src/uart_tx.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "G:/PROJECT_DELTA/Gowin_EDA/GOWIN/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_delta/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

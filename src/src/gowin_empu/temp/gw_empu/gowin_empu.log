@@ -1,0 +1,52 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v'
+Analyzing included file 'config.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v":2206)
+Back to file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v":2206)
+Analyzing included file 'gowin_empu_name.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v":2206)
+Back to file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v":2206)
+Undeclared symbol 'rtc_src_clk', assumed default net type 'wire'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v":2206)
+Undeclared symbol 'uart1_rxd', assumed default net type 'wire'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v":2206)
+Undeclared symbol 'uart1_txd', assumed default net type 'wire'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v":2206)
+Undeclared symbol 'trace_data', assumed default net type 'wire'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v":2206)
+Undeclared symbol 'trace_clk', assumed default net type 'wire'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v":2206)
+Analyzing Verilog file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu_top.v'
+Analyzing included file 'gowin_empu_name.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu_top.v":2)
+Back to file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu_top.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu_top.v":2)
+Analyzing included file 'config.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu_top.v":3)
+Back to file 'G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu_top.v'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu_top.v":3)
+Compiling module 'Gowin_EMPU_Top'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu_top.v":5)
+WARN  (EX3073) : Port '**' remains unconnected for this instance("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v":2206)
+Compiling module '**'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v":2206)
+WARN  (EX3670) : Actual bit length ** differs from formal bit length *** for port '**'("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v":2206)
+WARN  (EX3791) : Expression size ** truncated to fit in target size **("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v":2206)
+WARN  (EX2629) : Delay control is not supported for synthesis("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v":2206)
+WARN  (EX3827) : Synthesis - simulation differences may occur when using full_case directive("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v":2206)
+WARN  (EX1998) : Net '**' does not have a driver("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v":2206)
+WARN  (EX2565) : Input '**' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v":2206)
+WARN  (EX2565) : Input '**' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v":2206)
+NOTE  (EX0101) : Current top module is "Gowin_EMPU_Top"
+WARN  (EX0211) : The output port "MOSI" of module "gw_peripherals_interconnect" has no driver, assigning undriven bits to Z, simulation mismatch possible("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v":2206)
+WARN  (EX0211) : The output port "SCLK" of module "gw_peripherals_interconnect" has no driver, assigning undriven bits to Z, simulation mismatch possible("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v":2206)
+WARN  (EX0211) : The output port "NSS" of module "gw_peripherals_interconnect" has no driver, assigning undriven bits to Z, simulation mismatch possible("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v":2206)
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+WARN  (NL0002) : The module "gw_int_apb2_decoder" instantiated to "u_i2c_m" is swept in optimizing("G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\gowin_empu_gw1ns4\data\gowin_empu.v":2206)
+[95%] Generate netlist file "G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\gowin_empu\temp\gw_empu\gowin_empu.vg" completed
+Generate template file "G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\gowin_empu\temp\gw_empu\gowin_empu_tmp.v" completed
+[100%] Generate report file "G:\PROJECT_DELTA\Gowin_EDA\GOWIN\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\fpga_project_delta\src\gowin_empu\temp\gw_empu\gowin_empu_syn.rpt.html" completed
+GowinSynthesis finish
